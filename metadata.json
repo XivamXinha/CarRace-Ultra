@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Dual: Head-to-Head Highway Racer",
+  "description": "Real-time multiplayer dual racer featuring single-lane head-to-head racing, team lobbies, live in-race radio chat, nitro boosts, and high-speed competitive arcade gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
